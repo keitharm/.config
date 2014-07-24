@@ -1,0 +1,14 @@
+[user]
+    email = fkdaya@gmail.com
+    name = Farhankhan Daya
+    username = lobabob
+
+[color]
+    status = auto
+
+[color "status"]
+added = green
+changed = cyan
+untracked = yellow blink
+deleted = red
+
